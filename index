@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creative Solutions | Desktop Pet Companion</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #0f172a; color: #f8fafc; margin: 0; padding: 0; line-height: 1.6; }
+        header { text-align: center; padding: 60px 20px; background: linear-gradient(135deg, #1e293b, #0f172a); border-bottom: 1px solid #334155; }
+        h1 { font-size: 2.8rem; color: #38bdf8; margin-bottom: 10px; }
+        p.subtitle { font-size: 1.2rem; color: #94a3b8; }
+        .btn { display: inline-block; background-color: #0284c7; color: white; padding: 12px 28px; border-radius: 8px; text-decoration: none; font-weight: bold; margin-top: 20px; transition: 0.3s; }
+        .btn:hover { background-color: #0369a1; }
+        .container { max-width: 800px; margin: 40px auto; padding: 0 20px; }
+        .card { background-color: #1e293b; padding: 30px; border-radius: 12px; margin-bottom: 30px; border: 1px solid #334155; }
+        h2 { color: #38bdf8; }
+        footer { text-align: center; padding: 30px; color: #64748b; border-top: 1px solid #334155; margin-top: 50px; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Creative Solutions</h1>
+        <p class="subtitle">Innovative, Lightweight Desktop Tools & Companions</p>
+        <a href="https://github.com/R-Mahesh45/Desktop-Pet__/releases/download/v1.0.0/DesktopPet_Setup.exe" class="btn">Download Desktop Pet Companion</a>
+    </header>
+
+    <div class="container">
+        <div class="card">
+            <h2>🐾 Desktop Pet Companion</h2>
+            <p>An interactive, animated desktop companion designed to make your workday fun while reminding you to take healthy breaks, hydrate, and rest your eyes.</p>
+        </div>
+
+        <div class="card">
+            <h2>🔒 Privacy Policy</h2>
+            <p><strong>Desktop Pet Companion</strong> respects user privacy. We do not collect, store, transmit, or share any personal data, telemetry, or user analytics. All settings and preferences are stored locally on your device.</p>
+        </div>
+
+        <div class="card">
+            <h2>✉️ Support & Contact</h2>
+            <p>For support, feedback, or bug reports, please email: <strong>maheshrathod2236@gmail.com</strong> or visit our <a href="https://github.com/R-Mahesh45/Desktop-Pet__" style="color: #38bdf8;">GitHub Repository</a>.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Creative Solutions (Mahesh Rathod). All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
